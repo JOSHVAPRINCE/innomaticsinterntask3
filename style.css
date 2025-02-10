@@ -18,7 +18,7 @@ header {
     width: 100%;
     height: auto;
     margin-top: 20px;
-    margin-left: 25px;
+    margin-left: 15px;
 }
 .imagebg {
     width: 95%;
@@ -82,7 +82,7 @@ nav button:hover {
     
     margin-top: 300px;
     margin-bottom: 200px;
-    margin-left: 100px;
+    margin-left: 75px;
     margin-right: 100px;
     position: absolute;
     top: 0;
