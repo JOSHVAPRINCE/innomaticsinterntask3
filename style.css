@@ -47,6 +47,7 @@ header {
     }
 
     .container {
+        margin-top: 700;
         width: 90%;
         height: auto;
         padding: 15px;
